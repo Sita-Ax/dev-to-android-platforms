@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">shakeOv</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="my_avatar">My Avatar</string>
+    <string name="Fade_Out">Fade Out</string>
+    <string name="Rot">Rotate</string>
+    <string name="Blink">Blink</string>
+</resources>
