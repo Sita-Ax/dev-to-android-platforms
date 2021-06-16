@@ -1,8 +1,17 @@
 <resources>
-    <string name="app_name">shakeOv</string>
+    <string name="app_name">LifeCycleOv</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="my_avatar">My Avatar</string>
-    <string name="Fade_Out">Fade Out</string>
-    <string name="Rot">Rotate</string>
-    <string name="Blink">Blink</string>
+    <string name="login">login</string>
+    <string name="reg">Register</string>
+    <string name="logout">logout</string>
+    <string name="password">Lösenord</string>
+    <string name="btn_login">Logga in</string>
+    <string name="first_name">firstName</string>
+    <string name="last_name">lastName</string>
+    <string name="adress">adress</string>
+    <string name="phone">phone</string>
+    <string name="registrera">Registrera</string>
+    <string name="username">username</string>
+    <string name="btn_reg">Registrera</string>
+    <string name="btn_acc">Skapa konto</string>
 </resources>
